@@ -121,8 +121,9 @@ public class Buttons extends JPanel implements ActionListener {
             for(int i = 0; i < button.length; i++){
                 button[i].setEnabled(false);
             }
-    }
-    } 
 
+        }
+    
+}
+    
     }
-
